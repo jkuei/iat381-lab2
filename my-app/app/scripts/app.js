@@ -11,7 +11,6 @@
 angular
   .module('myappApp', [
     'ngAnimate',
-    'ngAria',
     'ngMessages',
     'ngRoute',
     'ngSanitize',
